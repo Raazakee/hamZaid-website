@@ -1,0 +1,42 @@
+.hp{
+    background: #880000 ;
+    color: #ffffff;
+}
+
+.companyHeading{
+    text-align: center;   
+    color: #ffffff;
+font-size: 100px;
+}
+
+.hpContent {
+    font-size: 40px;
+}
+.serviceHeader{
+    font-size: 35px;
+}
+
+.linkToAbout{
+    font-size: 50px;
+}
+.linkToAbout{
+    background: yellow;
+    color: #000;
+}
+.linkToAbout:hover{
+    background: black;
+    color: yellow;
+}
+
+/*About Page*/
+
+.aboutContent{
+    width: 50%;
+    display:inline-block;
+}
+    
+.apg img{
+    width: 40%;
+    float:left;
+     
+}
